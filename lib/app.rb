@@ -40,4 +40,3 @@ def follow_hello
 	client.follow(followers_array)
 end
 
-follow_hello
